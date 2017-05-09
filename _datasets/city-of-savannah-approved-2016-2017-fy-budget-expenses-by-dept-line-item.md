@@ -1,7 +1,7 @@
 ---
 schema: default
 title: 'City of Savannah Approved 2016, 2017 FY Budget Expenses by Dept., Line Item'
-organization: Sample Department
+organization: City of Savannah
 notes: >-
   This dataset includes expenses for the City of Savannah for FY  '17 and FY' 16
   for comparison.
