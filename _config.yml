@@ -1,6 +1,6 @@
-title: Open Savannah
-greeting: Welcome to Open Data Savannah
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: OpenDataSAV
+greeting: Welcome to Open Data SAV
+description: Open Savannah's unofficial, bare-bones, lightweight public data portal.
 baseurl: /jkan
 logo: /img/jkan.png
 
